@@ -23,6 +23,14 @@
 				"Linux",
 				"Mac"
 			]
+		},
+		{
+			"Name": "StormSync",
+			"Enabled": true
+		},
+		{
+			"Name": "StormSyncAvalancheBridge",
+			"Enabled": true
 		}
 	]
 }
